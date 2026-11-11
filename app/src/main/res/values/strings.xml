@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Penaflorida_MajorActivity4</string>
+    <string name="student_info">Penaflorida | Major Activity 4</string>
+    <string name="game_title">WHO IS THAT POKEMON?</string>
+    <string name="score_label">SCORE: 0</string>
+    <string name="berries_label">Berries: 3</string>
+    <string name="round_label">ROUND 1/5</string>
+    <string name="difficulty_label">Difficulty: Easy</string>
+    <string name="placeholder_text">---</string>
+    <string name="hint_button">Berry</string>
+    <string name="next_button">Next</string>
+</resources>
